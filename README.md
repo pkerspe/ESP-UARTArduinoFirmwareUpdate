@@ -23,8 +23,8 @@ see examples folder in this repo e.g. [https://github.com/pkerspe/ESP-UARTArduin
 The following pages provide good information if you want to know more about the involved file formate, protocols and mechanics on flashing an Atmega via serial, the STK500 protocol and the Optiboot bootloader:
 
 **MightyCore:**
-Optiboot/Ardino core for non--arduino-standard Atmega MCUs (e.g. ATmega8535, ATmega16(A), ATmega32(A), ATmega164, ATmega324, ATmega644 and ATmega1284) 
-[https://github.com/MCUdude/MightyCore]([https://github.com/MCUdude/MightyCore)
+Optiboot/Arduino core for non--arduino-standard Atmega MCUs (e.g. ATmega8535, ATmega16(A), ATmega32(A), ATmega164, ATmega324, ATmega644 and ATmega1284) 
+[https://github.com/MCUdude/MightyCore](https://github.com/MCUdude/MightyCore)
 
 **STK500 protocol and flow of firmware update on Arduino**
 [https://mischianti.org/forums/topic/flash-bin-file-from-spiffs-of-esp8266-via-serial-to-arduino-uno/](https://mischianti.org/forums/topic/flash-bin-file-from-spiffs-of-esp8266-via-serial-to-arduino-uno/)
