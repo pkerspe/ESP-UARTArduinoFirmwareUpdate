@@ -1,0 +1,23 @@
+{
+    "name": "ESP-UARTArduinoFirmwareUpdate",
+    "description": "This library is used flash a connected Atmega MCU from an ESP32 via the UART / serial interface using STK500 protocol",
+    "keywords": "esp,ESP32,intel hex,firmware file,flashing,UART,serial,STK500,Optiboot",
+    "authors": {
+        "name": "Paul Kerspe",
+        "maintainer": true
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/pkerspe/ESP-UARTArduinoFirmwareUpdate.git"
+    },
+    "version": "0.1.0",
+    "license": "Apache-2.0",
+    "frameworks": "arduino",
+    "platforms": [
+        "espressif32"
+    ],
+    "dependencies": [],
+    "examples": [
+        "[Ee]xamples/*/*.ino"
+    ]
+}
